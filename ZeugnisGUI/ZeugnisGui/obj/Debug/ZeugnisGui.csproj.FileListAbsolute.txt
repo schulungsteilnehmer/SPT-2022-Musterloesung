@@ -1,0 +1,9 @@
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\bin\Debug\ZeugnisGui.exe.config
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\bin\Debug\ZeugnisGui.exe
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\bin\Debug\ZeugnisGui.pdb
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\obj\Debug\ZeugnisGui.csprojResolveAssemblyReference.cache
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\obj\Debug\ZeugnisGui.MainForm.resources
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\obj\Debug\ZeugnisGui.csproj.GenerateResource.Cache
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\obj\Debug\ZeugnisGui.exe
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\obj\Debug\ZeugnisGui.pdb
+C:\Users\neumap\Documents\SharpDevelop Projects\ZeugnisGui\ZeugnisGui\obj\Debug\ZeugnisGui.ReportResultDialog.resources
